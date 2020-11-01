@@ -10,8 +10,8 @@
 -->
 Name | Role | github user | nanohub user | email | status
 ---|---|---|---|---|---
-Joe Shmo | lead | jshmo | jshmo | jshmo@nanocool.co | active
-Alice Land | developer | alice1 | alice2 | alice@wonderland | inactive
+Yuhang Yang | developer| *** | xxxx | jshmo@nanocool.co | active
+Sixian Jia | developer | sixianj2 | sixianj2| sixianj2@illinois.edu | active
 
 **nanoMFG Github Team(s):** @coolteam
 **nanoHUB Group(s):**
