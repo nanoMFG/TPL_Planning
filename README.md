@@ -1,7 +1,7 @@
 # nanoMFG Software Planning Document
 <!-- Replace text below with long title of project:short-name -->
 ## The Coolest nanoHUB Tool: nanocool
-### Target Release: #.#.# : Month Day, 20##
+### Target Release: 12.15.2021 
 
 ## Development Team
 <!-- Complete table for all team members 
@@ -10,7 +10,7 @@
 -->
 Name | Role | github user | nanohub user | email | status
 ---|---|---|---|---|---
-Yuhang Yang | developer| *** | xxxx | jshmo@nanocool.co | active
+Yuhang Yang | developer| *** | xxxx | yang221@illinois.edu | active
 Sixian Jia | developer | sixianj2 | sixianj2| sixianj2@illinois.edu | active
 
 **nanoMFG Github Team(s):** @coolteam
