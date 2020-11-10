@@ -93,12 +93,19 @@ In the current release, the tool is used to simulate the final shape of a CAD de
 3.Summary of geimetric features and errors
 ### Current Progress
 1.Spatial distributions of geometric features
+![Screen Shot 2020-11-10 at 1 44 17 AM](https://user-images.githubusercontent.com/71730024/98637749-dd000f80-22f6-11eb-841b-a9ff00635cdf.png)
+
+![Screen Shot 2020-11-10 at 1 44 24 AM](https://user-images.githubusercontent.com/71730024/98637753-dec9d300-22f6-11eb-869a-60c69e5ea4c1.png)
+
+![Screen Shot 2020-11-10 at 1 44 30 AM](https://user-images.githubusercontent.com/71730024/98637758-e0939680-22f6-11eb-9a35-5833cc8a0ae6.png)
 
 2.Geometric deviation from the designed shape
 
+![Screen Shot 2020-11-10 at 1 45 03 AM](https://user-images.githubusercontent.com/71730024/98637761-e25d5a00-22f6-11eb-9078-1fe54cc099b7.png)
 
 3.Summary of geimetric features and errors
 
+![Screen Shot 2020-11-10 at 1 45 14 AM](https://user-images.githubusercontent.com/71730024/98637765-e38e8700-22f6-11eb-872a-c4c8ae830840.png)
 
 ### 2.3 Scope and Limitations for Subsequent Releases
 <!--Short summary of  future envisioned roadmap for subsequent efforts.-->
