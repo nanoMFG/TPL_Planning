@@ -73,7 +73,8 @@ A47
 <!--List the all planned goals/features for this release.  These should be links to issues.  Add a new subsection for each release.  Equally important, document feature you explicity are not doing at this time-->
 TPL Mechanism
 
-![Screen Shot 2020-11-10 at 1 24 10 AM](https://user-images.githubusercontent.com/71730024/98635701-788f8100-22f3-11eb-9adb-a9c63fa81875.png)
+![Screen Shot 2020-11-10 at 1 24 10 AM](https://user-images.githubusercontent.com/71730024/98635813-9f4db780-22f3-11eb-9b5f-4cf5a078d7a4.png)
+
 
 Hardware Setup
 
