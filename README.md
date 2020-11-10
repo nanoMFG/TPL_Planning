@@ -26,6 +26,14 @@ How does it relate to existing tools and existing software?
 How does it fit into the overall objectives for the nano **manufacturing** node?
 Who will use this software?
 -->
+To improve the utility and ultimate dissemination of our published TPL software tool, we have been developing a framework for which to incorporate (experimental) process variability in our simulation model in order to obtain insight on the repeatability of the TPL process. Our initial approach uses 3D geometric measurements of fabricated structures/features.
+The tool will provide:
+1.Spatial distributions of geometric features.
+ (a)Height
+ (b)Radius
+ (c)Volume
+2.Geometric deviation from the designed shape.
+3.Summary of geimetric features and errors
 
 ### 1.2 References
 <!--List any documents or background material that are relevant.  Links are useful. For instance, a link to a wiki or readme page in the project repository, or link to a uploaded file (doc, pdf, ppt, etc.).-->
