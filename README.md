@@ -67,18 +67,18 @@ A47
 
 ### 2.1 Product Background and Strategic Fit
 <!--Provide context for the proposed product.  Is this a completely new projects, or next version of an existing project? This can include a description of any contextual research, or the status of any existing prototype application.  If this SPD describes a component, describe its relationship to larger system. Can include diagrams.-->
-
-
-### 2.2 Scope and Limitations for Current Release
-<!--List the all planned goals/features for this release.  These should be links to issues.  Add a new subsection for each release.  Equally important, document feature you explicity are not doing at this time-->
 TPL Mechanism
 
-![Screen Shot 2020-11-10 at 1 24 10 AM](https://user-images.githubusercontent.com/71730024/98635813-9f4db780-22f3-11eb-9b5f-4cf5a078d7a4.png)
-
+![Screen Shot 2020-11-10 at 1 24 10 AM](https://user-images.githubusercontent.com/71730024/98636077-1c792c80-22f4-11eb-89ce-608cf636f7ae.png)
 
 Hardware Setup
 
 ![Screen Shot 2020-11-10 at 1 27 22 AM](https://user-images.githubusercontent.com/71730024/98635993-edfb5180-22f3-11eb-8c51-5b5ef39ac003.png)
+
+
+### 2.2 Scope and Limitations for Current Release
+<!--List the all planned goals/features for this release.  These should be links to issues.  Add a new subsection for each release.  Equally important, document feature you explicity are not doing at this time-->
+
 
 ##### 2.2.1 Planned Features
 
