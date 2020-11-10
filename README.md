@@ -118,7 +118,7 @@ In the current release, the tool is used to simulate the final shape of a CAD de
 
 The TPL Analysis tool uses Jupyter Notebook to run. Users can use the tool from Nanohub website or download the code from NanoMFG.
  
-<!--## 3 User Interaction and Design
+## 3 User Interaction and Design
 
 ### 3.1 Classes of Users
 <!--Identify classes (types) of users that you anticipate will use the product.  Provide any relevant context about each class that may influence how the product is used: 
@@ -156,4 +156,4 @@ Provide links to any user surveys, questionnaires, interviews, feedback or other
 <!--Identify and document possible sources of uncertainty. Categorize with standard labels, such as parametric, structural, algorithmic, experimental, interpolation.
 
 Develop a plan for measuring and documenting uncertainty, e.g., using forward propagation or inverse UQ, and showing it in the application, if applicable.-->
--->
+
