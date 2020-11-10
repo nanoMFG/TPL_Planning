@@ -110,50 +110,9 @@ In the current release, the tool is used to simulate the final shape of a CAD de
 ### 2.3 Scope and Limitations for Subsequent Releases
 <!--Short summary of  future envisioned roadmap for subsequent efforts.-->
 
+
 ### 2.3 Operating Environment
 <!--Describe the target environment.  Identify components or application that are needed.  Describe technical infrastructure need to support the application.-->
 
-### 2.4 Design and Implementation Constraints
-<!--This could include pre-existing code that needs to be incorporated ,a certain programming language or toolkit and software dependencies.  Describe the origin and rationale for each constraint.-->
-
 The TPL Analysis tool uses Jupyter Notebook to run. Users can use the tool from Nanohub website or download the code from NanoMFG.
- 
-## 3 User Interaction and Design
-
-### 3.1 Classes of Users
-<!--Identify classes (types) of users that you anticipate will use the product.  Provide any relevant context about each class that may influence how the product is used: 
-The tasks the class of users will perform
-Access and privilege level
-Features used
-Experience level
-Type of interaction
-Provide links to any user surveys, questionnaires, interviews, feedback or other relevant information.-->
-
-### 3.2 User Requirements
-<!-- Provide a list of issue links to document the main set of user requirements to be satisfied by this release.  Use the user requirement template to draft thense issues.  A well written user requirement should be easy to justify (Rational) and should be testable.  List in order of priority as must have, should have or nice to have for each use case. -->
-
-### 3.3 Proposed User Interface
-<!--Could include drawn mockups, screenshots of prototypes, comparison to existing software and other descriptions.-->
-
-### 3.4 Documentation Plan
-<!-- List planned documentation activities -->
-
-### 3.5 User Outreach Plan
-<!-- List upcoming activities designed to elicit user feedback and/or engage new users.  Use issues for activities that will be completed this iteration-->
-
-## 4. Data And Quality Attributes
-
-### 4.1 Data Dictionary
-<!--Summarize inputs and outputs for the application.-->
-
-### 4.2 Usability and Performance
-<!--Summarize usability requirements such as easy of adoption for new users (eg example data),  inline documentation, avoiding errors, efficient interaction, etc.  Describe performance expectations  and/or document challenges.  Note you can reference user requirements from above if needed. -->
-
-### 4.3 Testing, Verification and Validation
-<!--Describe What data is necessary to verify the basic functionality of the application.  Provide a testing plan that includes a list of issues for each planned activity.  Describe data sets that are needed to test validation.-->
-
-### 4.4 Uncertainty Quantification
-<!--Identify and document possible sources of uncertainty. Categorize with standard labels, such as parametric, structural, algorithmic, experimental, interpolation.
-
-Develop a plan for measuring and documenting uncertainty, e.g., using forward propagation or inverse UQ, and showing it in the application, if applicable.-->
 
