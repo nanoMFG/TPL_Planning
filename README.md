@@ -1,6 +1,6 @@
 # nanoMFG Software Planning Document
 <!-- Replace text below with long title of project:short-name -->
-## The Coolest nanoHUB Tool: nanocool
+## The Coolest nanoHUB Tool: Two Photon Lithography Analysis
 ### Target Release: 12.15.2021 
 
 ## Development Team
@@ -10,14 +10,14 @@
 -->
 Name | Role | github user | nanohub user | email | status
 ---|---|---|---|---|---
-Yuhang Yang | developer| *** | xxxx | yang221@illinois.edu | active
+Yuhang Yang | developer| yang221 | yang221 | yang221@illinois.edu | active
 Sixian Jia | developer | sixianj2 | sixianj2| sixianj2@illinois.edu | active
 
 **nanoMFG Github Team(s):** @coolteam
 **nanoHUB Group(s):**
 
 ## 1. Introduction
-A  concise description of the current iteration of work.
+Data Based Uncertainty Quatification and Process Capability Analysis for Two Photon Lithography
 
 ### 1.1 Purpose and Vision Statement
 <!-- Why are we building this tool?
