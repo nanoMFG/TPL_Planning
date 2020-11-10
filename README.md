@@ -79,19 +79,26 @@ Hardware Setup
 ### 2.2 Scope and Limitations for Current Release
 <!--List the all planned goals/features for this release.  These should be links to issues.  Add a new subsection for each release.  Equally important, document feature you explicity are not doing at this time-->
 
+In the current release, the tool is used to simulate the final shape of a CAD design geometry. For next version, the tool will use 3D geometric measurements to fabricate structures and features.
 
 ##### 2.2.1 Planned Features
 
-1.Spatial distributions of geometric features.
+1.Spatial distributions of geometric features
 (a)Height
 (b)Radius
 (c)Volume
 
-2.Geometric deviation from the designed shape.
+2.Geometric deviation from the designed shape
 
 3.Summary of geimetric features and errors
-#### 2.2.2 Release Notes 
-##### v#.#.#
+### Current Progress
+1.Spatial distributions of geometric features
+
+2.Geometric deviation from the designed shape
+
+
+3.Summary of geimetric features and errors
+
 
 ### 2.3 Scope and Limitations for Subsequent Releases
 <!--Short summary of  future envisioned roadmap for subsequent efforts.-->
