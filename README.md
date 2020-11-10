@@ -78,7 +78,7 @@ TPL Mechanism
 
 Hardware Setup
 
-![Picture1](https://user-images.githubusercontent.com/71730024/98635471-0cad1880-22f3-11eb-826c-7c04c904d826.png)
+![Screen Shot 2020-11-10 at 1 27 22 AM](https://user-images.githubusercontent.com/71730024/98635993-edfb5180-22f3-11eb-8c51-5b5ef39ac003.png)
 
 ##### 2.2.1 Planned Features
 
