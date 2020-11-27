@@ -116,3 +116,25 @@ In the current release, the tool is used to simulate the final shape of a CAD de
 
 The TPL Analysis tool uses Jupyter Notebook to run. Users can use the tool from Nanohub website or download the code from NanoMFG.
 
+# 3. User Interaction and Design  
+
+### 3.1 Classes of Users
+
+
+### 3.2 User Requirements
+
+
+
+### 3.3 Proposed User Interface
+
+
+
+### 3.4 Documentation Plan
+
+
+
+### 3.5 User Outreach Plans
+
+
+
+## 4. Data and Quality Attributes 
